@@ -41,19 +41,19 @@ Pirminė užduotis:
 # Main file, generuojami vartotojai, generuojama transakcijos ir vykdomas varžymasis:
 
 <p align="center"> 
-  <img src='https://github.com/ToNyHasK/Blockchain3/blob/master/assets/pirmas_main.PNG'>
+  <img src='https://github.com/ToNyHasK/Blockchain3/tree/master/assets/pirmas_main.PNG'>
 </p>
 
 # helperFunc file, bloku kasimas, varžymasis 
 
 <p align="center"> 
-  <img src='https://github.com/ToNyHasK/Blockchain3/blob/master/assets/antras_helper.PNG'>
+  <img src='https://github.com/ToNyHasK/Blockchain3/tree/master/assets/antras_helper.PNG'>
 </p>
 
 # Rezultatas
 
 <p align="center"> 
-  <img src='https://github.com/ToNyHasK/Blockchain3/blob/master/assets/winners.PNG'>
+  <img src='https://github.com/ToNyHasK/Blockchain3/tree/master/assets/winners.PNG'>
 </p>
 
 ### TODO:
