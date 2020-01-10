@@ -24,16 +24,29 @@ Pirminė užduotis:
 * Nėra tranksakcijų
 * Nėra user'ių
 
-### TODO:
 
-# Užduotis v0.2
+
+### Užduotis v0.2
+
+### [v0.2](https://github.com/ToNyHasK/Blockchain3/releases/tag/v0.2) - (2019-01-10)
 
 * Patobulintas blokų kasimas
 * Transakcijos
 * Patikrinamas balansas
 * Perdaryta struktūra
 * Transakcijų tikrinimas
+* Vartotojų varžymasis (kaip ir veikia, tačiau kažkodėl index'as pasidaro visada toks pats, tai laimėtojas visada bus tas pats...)
+# Nuotraukos:
+
+![Main file, generuojami vartotojai, generuojama transakcijos ir vykdomas varžymasis](https://imgur.com/a/fCqtwti)
+
+![helperFunc file, bloku kasimas, varžymasis](https://imgur.com/a/zoL5sue)
+
+![rezultatas](https://imgur.com/a/USwVCmu)
+
+### TODO:
 
 # Užduoties v0.3
 
 * Merkel funkcija
+* Pataisyti varžymasi

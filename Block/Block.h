@@ -7,6 +7,7 @@
 #include <sstream>
 #include <utility>
 #include "../hashFunction/hashFunction.h"
+#include "../Transaction/Transaction.h"
 
 class Block {
 
@@ -20,6 +21,12 @@ public:
      int version = 1;
     long long int nonce = 1;
      int difficultyTarget = 1;
+
+    void setTransactions(const std::vector<Transaction> &transactions);
+
+private:
+    std::vector<Transaction> transactions;
+
 
 };
 
