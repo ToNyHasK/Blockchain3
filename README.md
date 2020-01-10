@@ -38,11 +38,11 @@ Pirminė užduotis:
 * Vartotojų varžymasis (kaip ir veikia, tačiau kažkodėl index'as pasidaro visada toks pats, tai laimėtojas visada bus tas pats...)
 # Nuotraukos:
 
-![Main file, generuojami vartotojai, generuojama transakcijos ir vykdomas varžymasis](https://imgur.com/a/fCqtwti.PNG)
+![Main file, generuojami vartotojai, generuojama transakcijos ir vykdomas varžymasis](https://imgur.com/a/fCqtwti.jpg)
 
-![helperFunc file, bloku kasimas, varžymasis](https://imgur.com/a/zoL5sue.PNG)
+![helperFunc file, bloku kasimas, varžymasis](https://imgur.com/a/zoL5sue.jpg)
 
-![rezultatas](https://imgur.com/a/USwVCmu.PNG)
+![rezultatas](https://imgur.com/a/USwVCmu.jpg)
 
 ### TODO:
 
