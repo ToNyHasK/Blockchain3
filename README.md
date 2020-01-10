@@ -38,11 +38,23 @@ Pirminė užduotis:
 * Vartotojų varžymasis (kaip ir veikia, tačiau kažkodėl index'as pasidaro visada toks pats, tai laimėtojas visada bus tas pats...)
 # Nuotraukos:
 
-![Main file, generuojami vartotojai, generuojama transakcijos ir vykdomas varžymasis](https://imgur.com/a/fCqtwti.jpg)
+# Main file, generuojami vartotojai, generuojama transakcijos ir vykdomas varžymasis:
 
-![helperFunc file, bloku kasimas, varžymasis](https://imgur.com/a/zoL5sue.jpg)
+<p align="center"> 
+  <img src='https://github.com/ToNyHasK/Blockchain3/blob/master/assets/pirmas_main.png'>
+</p>
 
-![rezultatas](https://imgur.com/a/USwVCmu.jpg)
+# helperFunc file, bloku kasimas, varžymasis 
+
+<p align="center"> 
+  <img src='https://github.com/ToNyHasK/Blockchain3/blob/master/assets/antras_helper.png'>
+</p>
+
+# Rezultatas
+
+<p align="center"> 
+  <img src='https://github.com/ToNyHasK/Blockchain3/blob/master/assets/winners.png'>
+</p>
 
 ### TODO:
 
