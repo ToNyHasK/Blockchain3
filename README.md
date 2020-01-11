@@ -37,13 +37,13 @@ Pirminė užduotis:
 # Nuotraukos:
 
 ## Main file, generuojami vartotojai, generuojama transakcijos ir vykdomas varžymasis:
-![GitHub Logo](assets/pirmas_main.png)
+![GitHub Logo](assets/pirmas_main.PNG)
 
 ## helperFunc file, bloku kasimas, varžymasis 
-![GitHub Logo](assets/antras_helper.png)
+![GitHub Logo](assets/antras_helper.PNG)
 
 ## Rezultatas
-![GitHub Logo](assets/winners.png)
+![GitHub Logo](assets/winners.PNG)
 
 ### Užduoties v0.3
 
