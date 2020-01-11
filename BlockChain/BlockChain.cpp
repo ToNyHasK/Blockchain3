@@ -1,9 +1,9 @@
 #include "BlockChain.h"
 
 #include <utility>
-#include "../hashFunction/hashFunction.h"
-#include "../Block/Block.h"
-#include "../helperFunctions/helperFunctions.h"
+#include "../Hash/hashFunction.h"
+#include "../Blockas/Block.h"
+#include "../HelpFunc/helperFunctions.h"
 
 BlockChain::BlockChain() {
     chain.emplace_back(hashFunc("Žalgris pralaimėjo aštuntą kartą iš eilės 2019-12-19"));

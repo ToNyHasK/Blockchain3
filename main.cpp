@@ -2,9 +2,9 @@
 #include <vector>
 #include <random>
 #include <algorithm>
-#include "Block/Block.h"
+#include "Blockas/Block.h"
 #include "BlockChain/BlockChain.h"
-#include "helperFunctions/helperFunctions.h"
+#include "HelpFunc/helperFunctions.h"
 #include "User/User.h"
 
 

@@ -6,7 +6,7 @@
 #include <vector>
 #include <sstream>
 #include <utility>
-#include "../hashFunction/hashFunction.h"
+#include "../Hash/hashFunction.h"
 #include "../Transaction/Transaction.h"
 
 class Block {

@@ -2,7 +2,7 @@
 #include <string>
 #include <assert.h>
 #include <iostream>
-#include "../hashFunction/hashFunction.h"
+#include "../Hash/hashFunction.h"
 
 std::string create_merkle(std::vector<std::string>& merkle)
 {

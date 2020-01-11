@@ -2,7 +2,7 @@
 #define BLOCKCHAIN_BLOCKCHAIN_H
 
 #include <vector>
-#include "../Block/Block.h"
+#include "../Blockas/Block.h"
 
 class BlockChain {
 public:
