@@ -36,23 +36,14 @@ Pirminė užduotis:
 * Vartotojų varžymasis (kaip ir veikia, tačiau kažkodėl index'as pasidaro visada toks pats, tai laimėtojas visada bus tas pats...)
 # Nuotraukos:
 
-# Main file, generuojami vartotojai, generuojama transakcijos ir vykdomas varžymasis:
+## Main file, generuojami vartotojai, generuojama transakcijos ir vykdomas varžymasis:
+![GitHub Logo](assets/pirmas_main.png)
 
-<p align="center"> 
-  <img src='https://github.com/ToNyHasK/Blockchain3/tree/master/assets/pirmas_main.PNG'>
-</p>
+## helperFunc file, bloku kasimas, varžymasis 
+![GitHub Logo](assets/antras_helper.png)
 
-# helperFunc file, bloku kasimas, varžymasis 
-
-<p align="center"> 
-  <img src='https://github.com/ToNyHasK/Blockchain3/tree/master/assets/antras_helper.PNG'>
-</p>
-
-# Rezultatas
-
-<p align="center"> 
-  <img src='https://github.com/ToNyHasK/Blockchain3/tree/master/assets/winners.PNG'>
-</p>
+## Rezultatas
+![GitHub Logo](assets/winners.png)
 
 ### Užduoties v0.3
 
