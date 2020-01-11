@@ -3,7 +3,7 @@
 ## Įdiegimas (Unix kompiuteryje) 
 
 - `git clone https://github.com/ToNyHasK/Blockchain3.git`
-- `cd Blockchainę`
+- `cd Blockchain3`
 
 ## Užduoties formuluotė
 https://github.com/blockchain-group/Blockchain-technologijos/blob/master/pratybos/2uzduotis-Blockchain.md
@@ -23,8 +23,6 @@ Pirminė užduotis:
 * Blockchain struktūra, blokų mininimas
 * Nėra tranksakcijų
 * Nėra user'ių
-
-
 
 ### Užduotis v0.2
 
@@ -56,9 +54,13 @@ Pirminė užduotis:
   <img src='https://github.com/ToNyHasK/Blockchain3/tree/master/assets/winners.PNG'>
 </p>
 
+### Užduoties v0.3
+
+### [v0.3](https://github.com/ToNyHasK/Blockchain3/releases/tag/v0.3) - (2019-01-11)
+
+* Pritaikyta Merkle funkcija
+
 ### TODO:
 
-# Užduoties v0.3
+* Pataisyti vartotojų varžymasi
 
-* Merkel funkcija
-* Pataisyti varžymasi

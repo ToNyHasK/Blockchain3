@@ -14,7 +14,7 @@ std::string createNumberString(const int number, const int length) {
 //bloko header hash skaiciavimas
 std::string calculateHash(const Block &block) {
     std::stringstream ss;
-    ss << block.prevBlockHash << block.timeStamp << block.version << block.nonce << block.difficultyTarget;
+    ss << block.prevBlockHash << block.timeStamp << block.version << block.merkelRootHash << block.nonce << block.difficultyTarget;
     return hashFunc(ss.str());
 }
 

@@ -19,6 +19,7 @@ public:
     std::string prevBlockHash;
     std::time_t timeStamp{};
      int version = 1;
+    std::string merkelRootHash;
     long long int nonce = 1;
      int difficultyTarget = 1;
 

@@ -1,4 +1,5 @@
 #include "Block.h"
+#include "../merkle/merkleHash.h"
 
 Block::Block(std::string prevBlockHash)
         : prevBlockHash(std::move(prevBlockHash)) {
@@ -16,5 +17,6 @@ void Block::setTransactions(const std::vector<Transaction> &transactions) {
 for (const auto & transaction : transactions) {
         transactionIDs.push_back(transaction.ID);
     }
+    merkelRootHash = create_merkle(transactionIDs);
 }
 
